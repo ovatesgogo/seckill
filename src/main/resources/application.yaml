@@ -1,0 +1,7 @@
+spring:
+  redis:
+    client-type: jedis
+    host: 192.168.174.100
+
+server:
+  port: 8088
